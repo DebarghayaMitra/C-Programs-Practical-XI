@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "355eb8675071626b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fc2e13eeb825388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da651abc138cbbfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "variableDescription/fahrenheitToCelsius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eeda60f3b01b0eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d63d25433ddb5388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a84a5693429d3895",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2c61d7284887a79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb6d6eb70a9469c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daa00d47c5422d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c8326acdc2ca4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838dca7378ee063a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "variableDescription/fahrenheitToCelsius.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9da205fb2542c326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "variableDescription/fahrenheitToCelsius.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3767e374f10bac6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb6cfdb0ed39ce64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "variableDescription/fahrenheitToCelsius.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "da651abc138cbbfa",
+  "lastOpenFiles": [
+    "variableDescription/compare2NosSingleLine.md",
+    "variableDescription/compare2NosIfElse.md",
+    "variableDescription/celsiusToFahrenheit.md",
+    "variableDescription/add2Numbers.md",
+    "README.md",
+    "Untitled.canvas",
+    "2023-01-20.md"
+  ]
+}
