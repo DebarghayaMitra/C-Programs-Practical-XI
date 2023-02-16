@@ -1,4 +1,4 @@
 | **Variable Identifier** | **Variable Type** | **Description** |
 | --- | --- | --- |
-| celsius | float | stores the temperature in celsius scale |
-| fahrenheit | float | stores the temperature in fahrenheit scale |
+| `celsius` | `long double` | stores the temperature in celsius scale |
+| `fahrenheit` | `long double` | stores the temperature in fahrenheit scale |

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc2e13eeb825388",
+        "id": "40245ee470802e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "da651abc138cbbfa",
+            "id": "6f9016aaeef1b35d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "variableDescription/fahrenheitToCelsius.md",
+                "file": "docs/add2Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "variableDescription/fahrenheitToCelsius.md",
+                "file": "docs/add2Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "variableDescription/fahrenheitToCelsius.md",
+                "file": "docs/add2Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "variableDescription/fahrenheitToCelsius.md"
+                "file": "docs/add2Numbers.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da651abc138cbbfa",
+  "active": "6f9016aaeef1b35d",
   "lastOpenFiles": [
-    "variableDescription/compare2NosSingleLine.md",
-    "variableDescription/compare2NosIfElse.md",
+    "screenshots/helloWorld.png",
+    "docs/helloWorld.md",
+    "docs/celsiusToFahrenheit.md",
+    "docs/add2Numbers.md",
+    "variableDescription/sumOfFirstNNaturalNumbersWhileLoop.md",
     "variableDescription/celsiusToFahrenheit.md",
-    "variableDescription/add2Numbers.md",
+    "variableDescription/sumOfFirstNNaturalForLoop.md",
     "README.md",
-    "Untitled.canvas",
-    "2023-01-20.md"
+    "variableDescription/add2Numbers.md",
+    "variableDescription/gradeSystem.md"
   ]
 }
