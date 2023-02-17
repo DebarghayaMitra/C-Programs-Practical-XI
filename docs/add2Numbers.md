@@ -35,7 +35,6 @@ int main()
     
     return(0);  // End the program
 }
-
 ```
 
 ## The Variable Description

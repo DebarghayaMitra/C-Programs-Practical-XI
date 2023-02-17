@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    long double celsius, fahrenheit;  // Declare variables for temperature in Celsius and Fahrenheit scales
+    long double fahrenheit;  // Declare variables for temperature in Celsius and Fahrenheit scales
     
     printf("Enter the temperature in fahrenheit scale:- ");  // Prompt user to enter temperature in Fahrenheit
     scanf("%LF", &fahrenheit);  // Read temperature in Fahrenheit from user input

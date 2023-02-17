@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/add2Numbers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/add2Numbers.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/add2Numbers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/add2Numbers.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "6f9016aaeef1b35d",
   "lastOpenFiles": [
-    "screenshots/helloWorld.png",
-    "docs/helloWorld.md",
-    "docs/celsiusToFahrenheit.md",
     "docs/add2Numbers.md",
-    "variableDescription/sumOfFirstNNaturalNumbersWhileLoop.md",
-    "variableDescription/celsiusToFahrenheit.md",
-    "variableDescription/sumOfFirstNNaturalForLoop.md",
-    "README.md",
-    "variableDescription/add2Numbers.md",
-    "variableDescription/gradeSystem.md"
+    "docs/celsiusToFahrenheit.md",
+    "docs/compare2NosIfElse.md",
+    "docs/compare2NosSingleLine.md",
+    "docs/compare3NosIfElseLadder.md",
+    "docs/compare3NosNestedIfElse.md",
+    "docs/compare3NosOneLiner.md",
+    "docs/fahrenheitToCelsius.md",
+    "docs/gradeSystem.md",
+    "docs/helloWorld.md"
   ]
 }
