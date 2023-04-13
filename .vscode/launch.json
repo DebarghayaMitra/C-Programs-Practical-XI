@@ -1,15 +1,16 @@
 {
+    "version": "0.2.0",
     "configurations": [
         {
-            "name": "C/C++: gcc-11 build and debug active file",
+            "name": "C/C++: linux x64 build and debug active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceRoot}/out/${fileBasenameNoExtension}",
+            "program": "${workspaceFolder}/out/linux-x64/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
-            "externalConsole": false,
+            "externalConsole": true,
             "MIMode": "gdb",
             "setupCommands": [
                 {
@@ -23,9 +24,42 @@
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "C/C++: gcc-11 build active file",
+            "preLaunchTask": "C/C++: linux x64 build active file",
             "miDebuggerPath": "/usr/bin/gdb"
+        },
+        {
+            "name": "C/C++: macOS x64 build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/out/macos-x64/${fileBasenameNoExtension}.out",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: macOS x64 build active file"
+        },
+        {
+            "name": "C/C++: Windows x64 build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/out/windows-x64/${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: Windows x64 build active file"
         }
-    ],
-    "version": "2.0.0"
+    ]
 }
